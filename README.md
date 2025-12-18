@@ -2,10 +2,12 @@
 
 *Python Full-Stack Developer* — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
-🔭 Current project: *Web application on M.S.Dhoni* (Using basic HTML and basic CSS)
-✅ I write tests with pytest and use GitHub Actions (CI)
-🌱 Learning: SQL, Software Engineering, Data Wearhousing and Data Mining
-🌐 Portfolio/LinkedIn:   www.linkedin.com/in/shashi-mohan-gorla   • 📫 
+
+
+. 🔭 Current project: *Web application on M.S.Dhoni* (Using basic HTML and basic CSS)
+. ✅ I write tests with pytest and use GitHub Actions (CI)
+.🌱 Learning: SQL, Software Engineering, Data Wearhousing and Data Mining
+. 🌐 Portfolio/LinkedIn:   www.linkedin.com/in/shashi-mohan-gorla   • 📫 
 
 ## Tech
 Python, Java, R, Pandas, C, C++, HTML/CSS, Git, GitHub Actions
